@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm Carlos Bravo! 👋
 
-<!--
-**CarlosBravo29/CarlosBravo29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotics and Digital Systems Engineer passionate about intelligent systems. Dedicated to mastering Computer Vision and Deep Learning through PyTorch. I love building autonomous systems
 
-Here are some ideas to get you started:
+### 🛠 Technical Skills
+- **Languages:** Python, C++, VBA
+- **Robotics & AI:** OpenCV, Machine Learning, Arduino, Hardware Integration
+- **Tools:** Git, GitHub, VS Code, Project Management Methodologies (Scrum/WBS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on
+- Developing an autonomous **Resistor Color-Band Decoder** using OpenCV.
+- Building a **Rubik's Cube Solver** with computer vision.
+
+### 💼 Get in touch
+- [LinkedIn](www.linkedin.com/in/carlosb29)
+- Feel free to reach out for collaborations on robotics or computer vision projects!
